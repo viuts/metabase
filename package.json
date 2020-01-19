@@ -42,6 +42,7 @@
     "normalizr": "^3.0.2",
     "npm": "^5.8.0",
     "number-to-locale-string": "^1.0.1",
+    "papaparse": "^5.1.1",
     "password-generator": "^2.0.1",
     "prop-types": "^15.5.7",
     "re-reselect": "^3.4.0",
